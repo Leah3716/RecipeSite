@@ -1,0 +1,204 @@
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\srv.dll.config
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\srv.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\srv.pdb
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csc.exe
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csc.exe.config
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csc.rsp
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csi.exe
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csi.exe.config
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\csi.rsp
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.AppContext.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Collections.Immutable.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Console.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Globalization.Calendars.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.IO.Compression.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.IO.FileSystem.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Net.Http.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Net.Sockets.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Reflection.Metadata.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.ValueTuple.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Xml.XPath.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\vbc.exe
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\vbc.exe.config
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\vbc.rsp
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\VBCSCompiler.exe
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\roslyn\VBCSCompiler.exe.config
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\Newtonsoft.Json.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Net.Http.Formatting.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Web.Http.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Web.Http.WebHost.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\Newtonsoft.Json.xml
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Net.Http.Formatting.xml
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Web.Http.xml
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\System.Web.Http.WebHost.xml
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\obj\Debug\srv.csproj.AssemblyReference.cache
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\obj\Debug\srv.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\obj\Debug\srv.csproj.CopyComplete
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\obj\Debug\srv.dll
+Y:\שנת פב\3\אטינגר לאה\angular\srv\srv\obj\Debug\srv.pdb
+F:\srv\srv\bin\srv.dll.config
+F:\srv\srv\bin\srv.dll
+F:\srv\srv\bin\srv.pdb
+F:\srv\srv\bin\roslyn\csc.exe
+F:\srv\srv\bin\roslyn\csc.exe.config
+F:\srv\srv\bin\roslyn\csc.rsp
+F:\srv\srv\bin\roslyn\csi.exe
+F:\srv\srv\bin\roslyn\csi.exe.config
+F:\srv\srv\bin\roslyn\csi.rsp
+F:\srv\srv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\srv\srv\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\srv\srv\bin\roslyn\Microsoft.Managed.Core.targets
+F:\srv\srv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\srv\srv\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\srv\srv\bin\roslyn\System.AppContext.dll
+F:\srv\srv\bin\roslyn\System.Collections.Immutable.dll
+F:\srv\srv\bin\roslyn\System.Console.dll
+F:\srv\srv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\srv\srv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\srv\srv\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\srv\srv\bin\roslyn\System.Globalization.Calendars.dll
+F:\srv\srv\bin\roslyn\System.IO.Compression.dll
+F:\srv\srv\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\srv\srv\bin\roslyn\System.IO.FileSystem.dll
+F:\srv\srv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\srv\srv\bin\roslyn\System.Net.Http.dll
+F:\srv\srv\bin\roslyn\System.Net.Sockets.dll
+F:\srv\srv\bin\roslyn\System.Reflection.Metadata.dll
+F:\srv\srv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\srv\srv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\srv\srv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\srv\srv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\srv\srv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\srv\srv\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\srv\srv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\srv\srv\bin\roslyn\System.ValueTuple.dll
+F:\srv\srv\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\srv\srv\bin\roslyn\System.Xml.XmlDocument.dll
+F:\srv\srv\bin\roslyn\System.Xml.XPath.dll
+F:\srv\srv\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\srv\srv\bin\roslyn\vbc.exe
+F:\srv\srv\bin\roslyn\vbc.exe.config
+F:\srv\srv\bin\roslyn\vbc.rsp
+F:\srv\srv\bin\roslyn\VBCSCompiler.exe
+F:\srv\srv\bin\roslyn\VBCSCompiler.exe.config
+F:\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\srv\srv\bin\Newtonsoft.Json.dll
+F:\srv\srv\bin\System.Net.Http.Formatting.dll
+F:\srv\srv\bin\System.Web.Http.dll
+F:\srv\srv\bin\System.Web.Http.WebHost.dll
+F:\srv\srv\bin\Newtonsoft.Json.xml
+F:\srv\srv\bin\System.Net.Http.Formatting.xml
+F:\srv\srv\bin\System.Web.Http.xml
+F:\srv\srv\bin\System.Web.Http.WebHost.xml
+F:\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\srv\srv\obj\Debug\srv.csprojAssemblyReference.cache
+F:\srv\srv\obj\Debug\srv.csproj.CoreCompileInputs.cache
+F:\srv\srv\obj\Debug\srv.csproj.CopyComplete
+F:\srv\srv\obj\Debug\srv.dll
+F:\srv\srv\obj\Debug\srv.pdb
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\srv.dll.config
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\srv.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\srv.pdb
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Cors.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\obj\Debug\srv.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\obj\Debug\srv.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\obj\Debug\srv.csproj.CopyComplete
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\obj\Debug\srv.dll
+C:\Users\USER\Desktop\לאהלה\שנה ב\אנגיולר\הפרויקט\srv\srv\obj\Debug\srv.pdb
