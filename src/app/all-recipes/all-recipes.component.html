@@ -1,0 +1,40 @@
+<!-- <div>
+  
+  <label>זמן הכנה</label>
+  <input type="number" name="e" (input)="timeFilter()"/> 
+  <label>-</label>
+  <input type="number" name="e1"/>  
+
+</div> -->
+<button (click)="add()">להוספת מתכון</button>
+
+<div>
+    <label>:משך זמן </label>
+    <br />
+    <label>בין: </label>
+    <input type="number" name="s" [(ngModel)]="start" #s="ngModel" /> <br />
+    <label>לבין</label>
+    <input type="number" name="e" [(ngModel)]="end" #e="ngModel" />
+</div>
+
+<div>
+    <!-- Load icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- The form -->
+<form class="example" action="action_page.php">
+  <input type="text" placeholder="Search.." name="sss"  [(ngModel)]="nameRec" #sss="ngModel">
+  <button type="submit" (click)="a()"><i class="fa fa-search"></i></button>
+</form>
+    <select (change)="onSelectedChange($event)">
+        <!-- <option value={{null}}>הכל</option> -->
+        <option *ngFor="let c of categories" value={{c.id}}>{{c.name}}</option>
+    </select>
+</div>
+<div >
+    <div class="a" *ngFor="let i of arr|range:start:end:selectedValue:nameRec" (click)="details(i.Id)">     
+            <app-small-recipe [r]="i"></app-small-recipe>     
+    </div>
+    </div>
+    <!-- |range:start:end:selectedValue:nameRec" -->
+    

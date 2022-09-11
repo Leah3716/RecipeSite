@@ -1,0 +1,53 @@
+<!-- <div>
+    <div> 
+   <label>:שם</label>
+      <input type="text" name="s"  [(ngModel)] ="log.Name" #s="ngModel"/> 
+     </div> 
+     <div>
+      <label>סיסמא:</label>
+        <input type="text" name="e"  [(ngModel)] ="log.Password" #e="ngModel"/> 
+    </div> 
+<input type="button" value="logIn" (click)="add()"/>  
+</div> -->
+<div class="login-box">
+   <h2>Login</h2>
+   <form>
+     <div class="user-box">
+      <input type="text" name="s" autocomplete="off"  [(ngModel)] ="log.Name" #s="ngModel"/> 
+       <label>Username</label>
+     </div>
+     <div class="user-box">
+      <input type="text" name="e"  [(ngModel)] ="log.Password" #e="ngModel"/> 
+       <label>Password</label>
+     </div>
+     <a  value="logIn" (click)="add()">
+       <span></span>
+       <span></span>
+       <span></span>
+       <span></span>
+       Submit
+     </a>
+   </form>
+ </div>
+<!-- {{my|json}} -->
+
+<!-- <div *ngIf="s.touched&&!isSubscribe">
+   <a routerLink="/register">register</a>
+</div> --> 
+<!-- 
+   <div *ngIf="log.Name!=i.Name||log.Password!=i.Password">
+     
+    </div>
+    <div>
+      
+      <div> {{u|json}}</div>  --> 
+<!-- <div *ngFor="let i of arr"> -->
+<!-- <DIV>i|json</DIV>
+   REGISTER: {{arr|json}} 
+  
+ <div>המערך:</div> -->
+<!-- <div *ngFor="let i of arrUser">
+<div>{{i|json}}</div> 
+ </div> -->
+ <!-- <div>LOGIN:{{log|json}}</div>  
+ <div>LOGIN:{{an|json}}</div>   -->

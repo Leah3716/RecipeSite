@@ -1,0 +1,62 @@
+<!-- <div> 
+    <label>:שם</label>
+       <input type="text" name="name"  [(ngModel)] ="newRecipe.Name" #name="ngModel"/> 
+      </div> 
+      <div>
+       <label>משך הכנה:</label>
+         <input type="text" name="TimeOfPreparation"  [(ngModel)] ="newRecipe.TimeOfPreparation" #TimeOfPreparation="ngModel"/> 
+     </div> 
+     <div>
+     <label>רמת קושי:</label>
+     <input type="number"  name="LevelOfDifficulty" [(ngModel)] ="newRecipe.LevelOfDifficulty" #LevelOfDifficulty="ngModel"/> 
+ </div> 
+ 
+<label>רכיבים:</label>
+  <div *ngFor="let ind of newRecipe.Ingredients ; let i =index" >
+    <input type="text"  name="n" #a  (blur)="change(a.value,newRecipe.Ingredients, i+1)"/>
+    </div>
+ <label>הוראות הכנה:</label>
+  <div *ng <div>
+ For="let x of newRecipe.PreparationMethod ; let i =index">
+     <input type="text"  name="space" #b  (blur)="change(b.value,newRecipe.PreparationMethod,i+1)"/>
+      <div *ngIf="in.dirty"></div>
+     <input type="text"  name="in" [(ngModel)] ="newRecipe.Ingredients[0]" #in="ngModel"/> -->
+    <!-- </div>
+ </div>  
+ 
+ <button (click)="add()">להוספה</button> -->
+<!-- <div>{{newRecipe|json}}</div>
+<div>{{arrRecipe|json}}</div> -->
+<form action="/action_page.php">
+   <div class="container">
+     <h1>addtion</h1>
+     <p>Please fill in this form to create a new reciepe.</p>
+     <hr>
+ 
+     <label for=""><b>שם</b></label>
+     <input type="text" placeholder="Enter Name"name="name"  [(ngModel)] ="newRecipe.Name" #name="ngModel" >
+ 
+     <label for="psw"><b>משך הכנה</b></label>
+     <input type="text" placeholder="Enter Num Of Mins" [(ngModel)] ="newRecipe.TimeOfPreparation" name="TimeOfPreparation" #TimeOfPreparation="ngModel">
+ 
+     <label for=""><b> 1-5 רמת קושי</b></label>
+     <input type="text" placeholder="Enter Level" name="LevelOfDifficulty" [(ngModel)] ="newRecipe.LevelOfDifficulty" #LevelOfDifficulty="ngModel"  name="psw-repeat" id="psw-repeat" required>
+     <hr>
+     <label for=""><b>רכיבים</b></label>
+     <div *ngFor="let ind of newRecipe.Ingredients ; let i =index" >
+     <input type="text" placeholder="Enter Ingredients" name="psw-" id="psw-repeat" #b  (blur)="change(b.value,newRecipe.Ingredients,i+1)" required>
+   </div>
+     <hr>
+    <label for=""><b>הוראות הכנה:</b></label>
+     <div *ngFor="let ind of newRecipe.PreparationMethod; let i =index" >
+     <input type="text" placeholder="Enter PreparationMethod" name="psw-" id="psw-repeat" #A  (blur)="change(A.value,newRecipe.PreparationMethod,i+1)" required>
+   </div>
+     <hr>
+     <button (click)="add()" type="submit" class="registerbtn">ADD!!!!</button>
+   </div>
+   
+   <!-- <div class="container signin">
+     <p>Already have an account? <a href="#">Sign in</a>.</p>
+   </div> -->
+ </form>
+ 

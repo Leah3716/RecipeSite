@@ -1,0 +1,77 @@
+#icon{
+    height:80px;
+    width:70px;
+}
+img {
+    height:20vh;
+    width:20vw;
+}
+.card{
+    text-align: center;
+    position: relative;
+    left: 37%;
+}
+body {
+    background-color: #242529;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+}
+
+*,*:after,*:before{
+    box-sizing: border-box;
+    outline: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  /*Title Default*/
+  body{
+    background: #343436;
+    color: #777;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  h1{
+    margin: 1em 0;
+    border-bottom: 1px dashed;
+    padding-bottom: 1em;
+    font-weight: lighter;
+  }
+  
+  .rating-css {
+    cursor: pointer;
+    height: 30px;
+    font-size: 0;
+    margin-bottom: 15px;
+  }
+  
+  .rating-css input {
+    display: none;
+  }
+  
+  .rating-css input + label {
+    text-align: center;
+    font-size: 24px;
+    color: #FFC107;
+    cursor: pointer;
+  }
+  
+  .rating-css input:checked + label ~ label {
+    color: #555;
+  }
+  
+  .rating-css.hover-effect input:checked + label ~ label,
+  .rating-css.hover-effect:hover input:hover + label ~ label {
+    opacity: 0.5;
+  }
+  
+  .rating-css.hover-effect:hover input + label ~ label {
+    opacity: 1;
+  }
+
+
+
