@@ -1,11 +1,4 @@
-<!-- <div>
-  
-  <label>זמן הכנה</label>
-  <input type="number" name="e" (input)="timeFilter()"/> 
-  <label>-</label>
-  <input type="number" name="e1"/>  
 
-</div> -->
 <button (click)="add()">להוספת מתכון</button>
 
 <div>
@@ -27,7 +20,6 @@
   <button type="submit" (click)="a()"><i class="fa fa-search"></i></button>
 </form>
     <select (change)="onSelectedChange($event)">
-        <!-- <option value={{null}}>הכל</option> -->
         <option *ngFor="let c of categories" value={{c.id}}>{{c.name}}</option>
     </select>
 </div>
@@ -36,5 +28,4 @@
             <app-small-recipe [r]="i"></app-small-recipe>     
     </div>
     </div>
-    <!-- |range:start:end:selectedValue:nameRec" -->
     

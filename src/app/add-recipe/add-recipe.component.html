@@ -1,32 +1,4 @@
-<!-- <div> 
-    <label>:שם</label>
-       <input type="text" name="name"  [(ngModel)] ="newRecipe.Name" #name="ngModel"/> 
-      </div> 
-      <div>
-       <label>משך הכנה:</label>
-         <input type="text" name="TimeOfPreparation"  [(ngModel)] ="newRecipe.TimeOfPreparation" #TimeOfPreparation="ngModel"/> 
-     </div> 
-     <div>
-     <label>רמת קושי:</label>
-     <input type="number"  name="LevelOfDifficulty" [(ngModel)] ="newRecipe.LevelOfDifficulty" #LevelOfDifficulty="ngModel"/> 
- </div> 
- 
-<label>רכיבים:</label>
-  <div *ngFor="let ind of newRecipe.Ingredients ; let i =index" >
-    <input type="text"  name="n" #a  (blur)="change(a.value,newRecipe.Ingredients, i+1)"/>
-    </div>
- <label>הוראות הכנה:</label>
-  <div *ng <div>
- For="let x of newRecipe.PreparationMethod ; let i =index">
-     <input type="text"  name="space" #b  (blur)="change(b.value,newRecipe.PreparationMethod,i+1)"/>
-      <div *ngIf="in.dirty"></div>
-     <input type="text"  name="in" [(ngModel)] ="newRecipe.Ingredients[0]" #in="ngModel"/> -->
-    <!-- </div>
- </div>  
- 
- <button (click)="add()">להוספה</button> -->
-<!-- <div>{{newRecipe|json}}</div>
-<div>{{arrRecipe|json}}</div> -->
+
 <form action="/action_page.php">
    <div class="container">
      <h1>addtion</h1>
@@ -54,9 +26,5 @@
      <hr>
      <button (click)="add()" type="submit" class="registerbtn">ADD!!!!</button>
    </div>
-   
-   <!-- <div class="container signin">
-     <p>Already have an account? <a href="#">Sign in</a>.</p>
-   </div> -->
  </form>
  

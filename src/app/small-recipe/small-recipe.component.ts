@@ -12,10 +12,6 @@ import { RecipeService } from '../recipe-service';
 export class SmallRecipeComponent implements OnInit {
   categories:Category[]
   @Input() r:Recipe;
-  
-  // =new Recipe("","","",null,null,null,[],[],"","");
-  // r:Recipe=new Recipe("012","icecream","0",40,2,new Date(),["floor","sugar"],["mix","bake"],"123456789","");
-  // r2:Recipe=new Recipe("012","cake","0",40,2,new Date(),["floor","sugar"],["mix","bake"],"123456789","");
   constructor(public recSer:RecipeService) { 
     this.recSer.getCategory().subscribe(
       succ=>{this.categories=succ;},
@@ -24,7 +20,6 @@ export class SmallRecipeComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    // this.id=this.route.snapshot.paramMap.get('id')
   }
 
 }

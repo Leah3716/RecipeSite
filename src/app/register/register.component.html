@@ -1,40 +1,4 @@
-<!-- <form #myF="ngForm">
-<div> 
-    <label>:תז</label>
-       <input type="text" name="s" required    pattern="[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]" [(ngModel)] ="use.Id" #s="ngModel"/> 
-       <div *ngIf = "s.dirty&&s.errors?.pattern" >
-        שדה זה אינו תקין
-         </div>
-      
-      </div>
-<div> 
-    <label>:שם</label>
-       <input type="text" name="s1"  required [(ngModel)] ="use.Name" #s="ngModel"/>
-      </div>
-      <div>
-       <label>סיסמא:</label>
-       <div>סיסמא חייבת להכיל לפחות 8 תווים הכוללים אות אנגלית גדולה אות אנגלית קטנה ספרה ותו מיוחד </div>
-         <input type="text" name="p" required   pattern="^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$" [(ngModel)] ="use.Password" #p="ngModel"/> 
-     </div>
-     <div *ngIf = "p.dirty&&p.errors?.pattern" >
-    הסיסמא אינה תקינה
-     </div>
-     <div>
-        <label>מייל:</label>
-          <input type="text" name="e"  [(ngModel)] ="use.Email" #e="ngModel" pattern="^[_A-Za-z0-9-\+]+(\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\.[A-Za-z0-9]+)*(\.[A-Za-z]{2,})$"/> 
-          <div *ngIf = "e.dirty&&e.errors?.pattern" >
-          הזנת המייל שגויה
-           </div>
-      </div>
-      <div>
-        <label>כתובת</label>
-          <input type="text" name="e3" required  [(ngModel)] ="use.Address" #e="ngModel"/> 
-      </div>
-     <div>
-        <input type="button" value="register" (click)="addItem()" [disabled]='!myF.valid'>
-        </div> 
-        <div> {{use|json}}</div>  -->
-      <!-- </form > -->
+
       <form #myF="ngForm" action="/action_page.php">
         <div class="container">
           <h1>Register</h1>
@@ -54,19 +18,9 @@
        <div>סיסמא חייבת להכיל לפחות 8 תווים הכוללים אות אנגלית גדולה אות אנגלית קטנה ספרה ותו מיוחד </div>
          <input type="password" placeholder="Enter Password" name="p" required   pattern="^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$" [(ngModel)] ="use.Password" #p="ngModel"/> 
      </div>
-     <!-- <div>
-      <label for="add"><b>address</b></label>
-        <input type="text" placeholder="Enter Address" name="e3" required  [(ngModel)] ="use.Address" #e="ngModel"/> 
-    </div> -->
      <div *ngIf = "p.dirty&&p.errors?.pattern" >
     הסיסמא אינה תקינה
      </div>
-          
-      
-          <!-- <label for="psw-repeat"><b>Repeat Password</b></label>
-          <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-          <hr>
-          <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p> -->
       <div>
           <button type="submit" class="registerbtn"  value="register" (click)="addItem()" [disabled]='!myF.valid'>Register</button>
         </div>

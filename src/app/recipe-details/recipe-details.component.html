@@ -4,10 +4,6 @@
   <img src="{{i.ImgRouting}}" class="card-img-top" alt="...">
   <div class="card-body">
     <div >
-        
-      <!-- <div  *ngIf="c.Id==i.CategoryId">
-         <img src={{c.Routing}} id="icon">
-      </div> -->
     <h5 class="card-title">{{i.Name}}</h5>
     <p class="card-text">{{i.TimeOfPreparation|minutesHours}}</p>
     <a href="#" class="btn btn-primary">:דרגת קושי</a>
@@ -17,8 +13,6 @@
 </div>
 <div  *ngFor="let i of arr " >
     <div *ngIf="i.Id==id"> 
-      <!-- <div>{{i.TimeOfPreparation|minutesHours}}</div> -->
-    <!-- <div>תאריך הוספה:{{i.AddDate|date}}</div>  -->
      <div>{{i.LevelOfDifficulty|star}} </div>
      <div *ngFor="let c of categories">
         
@@ -56,4 +50,3 @@
     <input type="radio" value="5" id="rating3-5" name="rating3">
     <label for="rating3-5" class="mdi mdi-star"></label>
 </div>
- <!-- <p>{{61|minutesHours}}</p>  -->

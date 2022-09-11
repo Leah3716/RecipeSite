@@ -9,9 +9,7 @@ export class UserService {
   baseUrl="https://localhost:44312/api/User";
   register( use:User)
   {
-    // name:string,password:string,email:string
 return this.http.post<User>("https://localhost:44312/api/User/register",use);
-//new User("9","chaim","999","cc@gmail.com","H")
   }
  logIn (use:SmallUse)
   {

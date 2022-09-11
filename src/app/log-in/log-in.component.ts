@@ -40,9 +40,6 @@ export class LogInComponent implements OnInit {
 }
       }
     )
-    
-    
-   
    }
    changeMode(): void {
    this.isSubscribe=true;

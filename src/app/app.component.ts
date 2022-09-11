@@ -23,5 +23,4 @@ export class AppComponent {
   return true;
   return false;
   }
-//   constructor(public recSer:RecipeService){}
 }
